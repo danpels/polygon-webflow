@@ -5,7 +5,7 @@
   border-radius: 16px;
   background-color: lightblue;
   color: black;
-  padding: 200px;
+  padding: 20px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -19,4 +19,8 @@
 
 .js-badge:hover {
   background-color: rgb(228, 137, 193);
+}
+
+body {
+  background-color: rgb(199, 255, 255);
 }
